@@ -20,7 +20,7 @@ Just a front-end boilerplate, useful for static web development.
 
 ## Installation
 1. Make sure you have nodejs and gulp-cli installed globally.
-2. Clone this repo git clone https://github.com/matheusbronca/gulp-starter your-project-name
+2. Clone this repo ```git clone https://github.com/matheusbronca/gulp-starter your-project-name```
 3. Probably you don't want to keep track of this repo, so remove .git folder rm -rf .git
 4. Install dependencies with npm install
 5. And you're good to go!
