@@ -2,10 +2,10 @@
 Just a front-end boilerplate, useful for static web development.
 
 ## Main Features
-- Gulp - Task Runner
-- Sass - CSS Preprocessor
-- Babel - Modern JavaScript compiler
-- Inject - Auto inject js and css files
+- [Gulp](https://gulpjs.com/) - Task Runner
+- [Sass](https://sass-lang.com/) - CSS Preprocessor
+- [Babel](https://babeljs.io/) - Modern JavaScript compiler
+- [Inject](https://www.npmjs.com/package/gulp-inject) - Auto inject js and css files
 
 ## Aditional Features
 - [PostCSS](https://postcss.org/) - Next generation CSS with gulp-postcss, autoprefixer and minified with cssnano
