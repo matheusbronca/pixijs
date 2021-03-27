@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gulp Starter
 Just a front-end boilerplate, useful for static web development.
 
@@ -28,3 +29,6 @@ Just a front-end boilerplate, useful for static web development.
 ## Usage
 - ```gulp --dev``` for development mode
 - ```gulp --prod``` for production mode
+=======
+# pixijs
+>>>>>>> 8ae39d1e664f316d1f622c359b74b63921088c41
